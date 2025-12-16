@@ -1,9 +1,8 @@
 # Python
-*.pyc
 __pycache__/
+*.pyc
 *.pyo
 *.pyd
-*.py[cod]
 
 # Django
 *.log
